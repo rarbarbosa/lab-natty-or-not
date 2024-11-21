@@ -5,7 +5,10 @@ Este vídeo de 1 minuto apresenta uma breve e nostálgica homenagem à Nintendo,
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- IA Generativa **[ElevenLabs](https://elevenlabs.io/)** para sintetização de voz e geração de avatar virtual;
+- IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com/)** para a criação de algumas imagens;
+- Buscador **[Google](https://www.google.com.br/)** para procurar imagens;
+- Plataforma de Vídeos **[YouTube](https://www.youtube.com/)** para procurar vídeos da Nintendo;
 - Software **[Capcut](https://www.capcut.com/pt-br/)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
